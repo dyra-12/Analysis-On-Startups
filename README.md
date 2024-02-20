@@ -1,14 +1,16 @@
-![image](https://github.com/dyra-12/Analysis-On-Startups/assets/95538598/c2541b77-39a9-4466-bb56-ebc982baa487)# Analysis-On-Startups
+<h2>Analysis-On-Startups</h2> 
 
 <h3>Abstract </h3>
 <p>India is a global hotspot with several unicorn startups competing against the rest of the globe on multiple platforms and sectors. In addition to privately owned, LLP and foreign companies, India registers more than 10,000 private limited companies each month with the Department of Corporate Affairs. Analyzing data on registration places and business types can reveal the direction the industry is moving. This gives us a glimpse of the future.</p>
 
 <h3>Aims and Objective of the study:</h3>
 <p>
-(i) To know if the startups in India are dependent on location of registration 
-(ii) To know if the startups in India are dependent on the type of business.
-(iii) Linear relationship between number of startups and location of registration.
-(iv)  Linear relationship between number of startups and type of business.
+  <ul>
+    <li>(i) To know if the startups in India are dependent on location of registration </li>
+    <li>(ii) To know if the startups in India are dependent on the type of business.</li>
+    <li>(iii) Linear relationship between number of startups and location of registration.</li>
+    <li>(iv)  Linear relationship between number of startups and type of business.</li>
+  </ul>
 </p>
 
 <h3>Research Hypotheses:</h3>
@@ -20,8 +22,8 @@
 
 <h5>HYPOTHESIS 2</h5>
 <ul>
-<l1>H0: In India, there is no discernible link between the number of startups and the type of firm.</l1>
-<l1>H1: In India, the number of startups and the type of business have a substantial link.</l1>
+<li>H0: In India, there is no discernible link between the number of startups and the type of firm.</li>
+<li>H1: In India, the number of startups and the type of business have a substantial link.</li>
 </ul>
 
 <h3>Materials and methods </h3>
